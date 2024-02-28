@@ -1,2 +1,2 @@
 # PA221
-Weekly assignments. 
+Weekly stuff
